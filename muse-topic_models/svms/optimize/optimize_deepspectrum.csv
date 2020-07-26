@@ -1,0 +1,7 @@
+patition,feature_set,value,params
+arousal,deepspectrum,38.666,{'classifier': 'AdaBoostClassifier'}
+arousal,deepspectrum,45.057,"{'classifier': 'KNeighborsClassifier', 'n_neighbors': 613.0}"
+valence,deepspectrum,35.082,{'classifier': 'QuadraticDiscriminantAnalysis'}
+valence,deepspectrum,36.959,"{'classifier': 'RandomForest', 'rf_max_depth': 2.895109147094447}"
+arousal,deepspectrum,36.028,"{'lambda_l1': 4.507881834771764e-05, 'lambda_l2': 0.0006629835395502091, 'num_leaves': 170, 'feature_fraction': 0.8323713630940845, 'bagging_fraction': 0.5733158787246735, 'bagging_freq': 5, 'min_child_samples': 71}"
+valence,deepspectrum,36.007,"{'lambda_l1': 2.6612951633208334e-06, 'lambda_l2': 0.00034278897342000157, 'num_leaves': 169, 'feature_fraction': 0.7731851799769273, 'bagging_fraction': 0.978432991988896, 'bagging_freq': 1, 'min_child_samples': 48}"

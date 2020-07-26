@@ -1,0 +1,18 @@
+patition,feature_set,value,params
+arousal,vggface,46.209,{'classifier': 'QuadraticDiscriminantAnalysis'}
+arousal,vggface,49.81399999999999,"{'classifier': 'SVC', 'svc_c': 1.0257303124693593}"
+valence,vggface,33.065,{'classifier': 'AdaBoostClassifier'}
+valence,vggface,37.402,"{'classifier': 'RandomForest', 'rf_max_depth': 3.663005327132358}"
+arousal,vggface,41.47,"{'lambda_l1': 9.196220623292284, 'lambda_l2': 2.223163611131165e-08, 'num_leaves': 6, 'feature_fraction': 0.9960922453545714, 'bagging_fraction': 0.5318783546536631, 'bagging_freq': 6, 'min_child_samples': 73}"
+valence,vggface,37.453,"{'lambda_l1': 1.7607229994230988e-07, 'lambda_l2': 1.3147696176070953e-05, 'num_leaves': 75, 'feature_fraction': 0.481457037456518, 'bagging_fraction': 0.8935486721718794, 'bagging_freq': 4, 'min_child_samples': 59}"
+arousal,vggface,41.615,"{'lambda_l1': 2.2676215368566144e-08, 'lambda_l2': 4.003917144936102e-07, 'num_leaves': 10, 'feature_fraction': 0.8908135768273152, 'bagging_fraction': 0.4985789881349387, 'bagging_freq': 6, 'min_child_samples': 91}"
+valence,vggface,38.102,"{'lambda_l1': 0.37422203407607046, 'lambda_l2': 0.004151487540770132, 'num_leaves': 96, 'feature_fraction': 0.6983154806051196, 'bagging_fraction': 0.9433270255267205, 'bagging_freq': 7, 'min_child_samples': 50}"
+arousal,vggface,49.82,"{'classifier': 'SVC', 'svc_c': 1.066676798237535}"
+valence,vggface,35.446999999999996,"{'classifier': 'SVC', 'svc_c': 1.2178731175657826}"
+arousal,vggface,48.896,"{'classifier': 'LinearSVC', 'svc_c': 3.739863026889789e-07}"
+valence,vggface,38.117,"{'classifier': 'LinearSVC', 'svc_c': 2.235302488852152e-05}"
+arousal,vggface,48.896,"{'classifier': 'LinearSVC', 'svc_c': 3.7400130924831853e-07}"
+valence,vggface,38.117,"{'classifier': 'LinearSVC', 'svc_c': 2.2314910551084317e-05}"
+arousal,vggface,50.349,"{'classifier': 'SVC', 'svc_c': 0.053872988214651696}"
+arousal,vggface,50.349,"{'classifier': 'SVC', 'svc_c': 0.053872988214651696}"
+arousal,vggface,50.349,"{'classifier': 'SVC', 'svc_c': 0.053872988214651696}"

@@ -1,0 +1,7 @@
+patition,feature_set,value,params
+arousal,openpose,43.435,{'classifier': 'GaussianNB'}
+arousal,openpose,46.826,"{'classifier': 'RandomForest', 'rf_max_depth': 2.473577746937961}"
+valence,openpose,36.139,{'classifier': 'QuadraticDiscriminantAnalysis'}
+valence,openpose,37.823,"{'classifier': 'RandomForest', 'rf_max_depth': 3.7255541110720873}"
+arousal,openpose,38.454,"{'lambda_l1': 9.557579452940878, 'lambda_l2': 5.9562191231073e-08, 'num_leaves': 85, 'feature_fraction': 0.5514079158630973, 'bagging_fraction': 0.7691484918012138, 'bagging_freq': 6, 'min_child_samples': 17}"
+valence,openpose,37.439,"{'lambda_l1': 0.008492884674030036, 'lambda_l2': 8.07630033137581e-07, 'num_leaves': 168, 'feature_fraction': 0.6707831088971541, 'bagging_fraction': 0.5946282779162273, 'bagging_freq': 2, 'min_child_samples': 95}"

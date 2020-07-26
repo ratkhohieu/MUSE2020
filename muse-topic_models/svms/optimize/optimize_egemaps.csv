@@ -1,0 +1,8 @@
+patition,feature_set,value,params
+arousal,egemaps,40.074,{'classifier': 'AdaBoostClassifier'}
+arousal,egemaps,44.218999999999994,"{'classifier': 'RandomForest', 'rf_max_depth': 2.4405985622654653}"
+valence,egemaps,34.235,{'classifier': 'QuadraticDiscriminantAnalysis'}
+valence,egemaps,36.346,"{'classifier': 'KNeighborsClassifier', 'n_neighbors': 722.0}"
+arousal,egemaps,37.79,"{'lambda_l1': 4.957983148676149e-07, 'lambda_l2': 0.1633505431386954, 'num_leaves': 66, 'feature_fraction': 0.5761687452857225, 'bagging_fraction': 0.5477922282237192, 'bagging_freq': 1, 'min_child_samples': 65}"
+arousal,egemaps,36.591,"{'lambda_l1': 1.9844495613172073, 'lambda_l2': 0.00022227525094931606, 'num_leaves': 67, 'feature_fraction': 0.8876932250023908, 'bagging_fraction': 0.5706609028055981, 'bagging_freq': 5, 'min_child_samples': 39}"
+valence,egemaps,36.381,"{'lambda_l1': 1.794169930140208e-05, 'lambda_l2': 4.839248496581822, 'num_leaves': 91, 'feature_fraction': 0.5411703715990687, 'bagging_fraction': 0.663075302125026, 'bagging_freq': 4, 'min_child_samples': 82}"
