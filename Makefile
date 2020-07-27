@@ -1,5 +1,5 @@
 APP_NAME=svenclary/pytorch_cv:lastest
-CONTAINER_NAME=wheat_kaggle
+CONTAINER_NAME=muse2020
 
 run: ## Run container
 	nvidia-docker run \
