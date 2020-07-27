@@ -1,0 +1,7 @@
+patition,feature_set,value,params
+arousal,fasttext,36.454,{'classifier': 'AdaBoostClassifier'}
+arousal,fasttext,45.482,"{'classifier': 'SVC', 'svc_c': 0.7994579807861328}"
+valence,fasttext,37.448,{'classifier': 'GaussianNB'}
+valence,fasttext,38.05,"{'classifier': 'RandomForest', 'rf_max_depth': 2.7785128541820456}"
+arousal,fasttext,35.510999999999996,"{'lambda_l1': 2.1328332378289963e-07, 'lambda_l2': 3.75978989219979e-05, 'num_leaves': 64, 'feature_fraction': 0.5236075788164616, 'bagging_fraction': 0.45530941021004606, 'bagging_freq': 4, 'min_child_samples': 52}"
+valence,fasttext,37.181,"{'lambda_l1': 0.04854843374500645, 'lambda_l2': 0.048557640380524535, 'num_leaves': 51, 'feature_fraction': 0.9991070343010784, 'bagging_fraction': 0.6032397549656621, 'bagging_freq': 2, 'min_child_samples': 87}"

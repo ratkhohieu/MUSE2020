@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4e3df6d3-5560-4a46-961c-2f554f7da21c" name="lab">
+        <fileTransfer rootFolder="/mnt/DATA1/hung/MuSe2020" accessType="SFTP" host="168.131.152.126" port="6996" sshConfigId="eccdb422-95e2-4434-a0fd-327bee98fffc" sshConfig="lab@168.131.152.126:6996 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

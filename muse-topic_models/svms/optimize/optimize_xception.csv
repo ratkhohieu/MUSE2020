@@ -1,0 +1,10 @@
+patition,feature_set,value,params
+arousal,xception,42.947,{'classifier': 'GaussianNB'}
+arousal,xception,46.61600000000001,"{'classifier': 'SVC', 'svc_c': 6.156395289109162}"
+valence,xception,37.776,{'classifier': 'GaussianNB'}
+valence,xception,38.760999999999996,"{'classifier': 'RandomForest', 'rf_max_depth': 8.444709526319093}"
+arousal,xception,39.311,"{'lambda_l1': 9.113801649484733, 'lambda_l2': 2.8866601966733987e-06, 'num_leaves': 130, 'feature_fraction': 0.7021196559501621, 'bagging_fraction': 0.9983423498466373, 'bagging_freq': 1, 'min_child_samples': 41}"
+valence,xception,37.114000000000004,"{'lambda_l1': 0.00018401500394185766, 'lambda_l2': 0.0005044570159747794, 'num_leaves': 129, 'feature_fraction': 0.5465822775913225, 'bagging_fraction': 0.7184181271592638, 'bagging_freq': 3, 'min_child_samples': 43}"
+valence,xception,40.247,"{'classifier': 'RandomForestClassifier', 'max_depth': 20.12054615652353}"
+valence,xception,39.819,"{'classifier': 'RandomForestClassifier', 'max_depth': 7.40086325414854}"
+valence,xception,39.819,"{'classifier': 'RandomForestClassifier', 'max_depth': 7.40086325414854}"
